@@ -1,4 +1,4 @@
-**About**
+<h2 align="center">About Me</h2>
 I'm Abhishek Kumar, an Associate Software Engineer at Infinite Computer Solutions, based in Bangalore, India. I'm passionate about crafting high-quality software solutions and contributing to innovative projects.
 
 
