@@ -1,4 +1,4 @@
-<h3>I'm Abhishek Kumar, an Software Engineer at Infinite Computer Solutions, based in Bangalore, India. I'm passionate about crafting high-quality software solutions and contributing to innovative projects.</h3>
+<h3>I'm Abhishek Kumar, an Software Engineer at Infinite Computer Solutions, based in Bangalore, India. I'm passionate about crafting high-quality software solutions and contributing to innovative projects</h3>
 
 <h3>Programming Language:</h3> 
 
